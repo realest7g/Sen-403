@@ -8,3 +8,9 @@ the purpose of this repository is to practice software develpment concepts
 
 written by 
 Tijani ahmed abiola
+
+##practice activities
+repository creation 
+branch creation
+commit management
+readme documentation
